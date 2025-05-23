@@ -3,7 +3,7 @@
 
 **Student Number:** 230236839  
 **Subject:** Professional Practices  
-**Date:** 23 June 2024  
+**Date:** 23 June 2025  
 
 ---
 
@@ -106,7 +106,7 @@ As a final-year student, I needed to demonstrate hands-on development skills bey
 
 ### 🔍 Reflection (STAR Technique)
 
-**Situation:** Graduation approaching (June 2025), needed to convert academic skills into job offers  
+**Situation:** Graduation approaching (June 2026), needed to convert academic skills into job offers  
 
 **Task:**  
 - Apply strategically to 10+ relevant positions  
