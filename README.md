@@ -5,6 +5,11 @@
 **Subject:** Professional Practices  
 **Date:** 23 June 2025  
 
+Related assessment documents:
+
+- [Assessment Cover Page](documents/assessment-cover.md)
+- [Digital Portfolio Rubric](documents/portfolio-rubric.md)
+
 ---
 
 ## 🎯 Career Counseling
@@ -33,6 +38,12 @@ As a 3rd-year ICT diploma student approaching internship season, I lacked profes
 **Result:**  
 - **Confidence Boost**: Able to articulate career goals:  
   _"My 3-year plan: Junior Dev → Full-Stack Engineer → Tech Lead"_
+
+📎 Evidence:
+
+![Career Development completion](media/career development .png)
+
+🧩 Reflection: I learned to write with clarity and purpose for professional contexts — focusing on concise subject lines, bullet-pointed achievements, and a formal but approachable tone. This improved my ability to present technical work clearly to non-technical stakeholders.
 
 ---
 
@@ -66,6 +77,12 @@ As a final-year student, I needed to demonstrate hands-on development skills bey
 - **Portfolio Quality**: Recruiters praised project organization  
 - **Technical Growth**: Now proficient in query optimization and database migrations
 
+📎 Evidence:
+
+![Commit history and SQL screenshot](media/commit history.png)
+
+🧩 Reflection: Peer and lecturer feedback guided improvements to documentation and commit practices. Adding issue templates and clear commit messages made collaboration easier and improved code review outcomes.
+
 ---
 
 ## 🧠 Personality Assessment
@@ -79,6 +96,12 @@ As a final-year student, I needed to demonstrate hands-on development skills bey
 **Task:** Identify personal teamwork approach  
 **Action:** Took assessment and compared results with peers  
 **Result:** Adapted communication style for better team synergy  
+
+📎 Evidence:
+
+![Personality assessment results](media/Personality Check.png)
+
+🧩 Reflection: The assessment highlighted my preference for structured collaboration. I adjusted my communication to provide concise status updates and more context when planning with teammates.
 
 ---
 
@@ -94,6 +117,12 @@ As a final-year student, I needed to demonstrate hands-on development skills bey
 **Task:** Create ATS-compliant resume  
 **Action:** Used Blackboard resources (AI review tool, lecturer feedback)  
 **Result:** CV scored in top 100% of class submissions  
+
+📎 Evidence:
+
+![CV feedback screenshot](media/cv .png)
+
+🧩 Reflection: Creating an ATS-friendly CV taught me to prioritise relevant keywords and quantify achievements, which improved my business writing and presentation.
 
 ---
 
@@ -119,3 +148,10 @@ As a final-year student, I needed to demonstrate hands-on development skills bey
 
 **Result:**  
 - **Response Rate**: 30% (3/10 applications → regret emails)
+
+📎 Evidence:
+
+![LinkedIn connections and applications](media/connections.png)
+![Interview prep screenshot](media/interview.png)
+
+🧩 Reflection: Rejections taught me to tailor applications and STAR responses. I now highlight measurable outcomes and include direct project links to demonstrate skills during interviews.
