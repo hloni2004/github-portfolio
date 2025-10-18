@@ -1,159 +1,178 @@
-
 # 📌 Lehlohonolo Mokoena – GitHub Portfolio
 
 **Student Number:** 230236839  
 **Subject:** Professional Practices  
 **Date:** 23 June 2025  
 
-Related assessment documents:
+---
 
-- [Assessment Cover Page](documents/assessment-cover.md)
-- [Digital Portfolio Rubric](documents/portfolio-rubric.md)
+### 📎 Related Assessment Documents
+- [Assessment Cover Page](documents/assessment-cover.md)  
+- [Digital Portfolio Rubric](documents/portfolio-rubric.md)  
 
 ---
 
 ## 🎯 Career Counseling
 
-**Completed "Career Development" course on Blackboard**
+**Completed:** “Career Development” course on Blackboard  
 
 ### 🔍 Reflection (STAR Technique)
 
 **Situation:**  
-As a 3rd-year ICT diploma student approaching internship season, I lacked professional job-hunting skills and industry awareness. The competitive tech job market required proper preparation.
+As a 3rd-year ICT diploma student preparing for internships, I realized I lacked professional job-hunting skills and industry awareness.  
 
 **Task:**  
 - Understand IT industry hiring processes  
-- Create competitive application documents  
-- Develop a professional online presence  
+- Develop competitive application materials  
+- Build a professional online presence  
 - Master behavioral interview techniques  
 
 **Action:**  
-- Completed Blackboard course modules:  
-  - Learned goal-setting principles  
-  - Identified hard vs. soft skills  
-- Revamped LinkedIn using course guidelines:  
+- Completed Blackboard course modules:
+  - Learned SMART goal-setting and self-assessment  
+  - Differentiated between hard and soft skills  
+- Revamped LinkedIn profile:
   - Added [projects section with GitHub links](https://github.com/hloni2004/github-portfolio)  
-  - Included skills endorsements (Java, SQL, Agile)  
+  - Included endorsements for Java, SQL, and Agile  
 
 **Result:**  
-- **Confidence Boost**: Able to articulate career goals:  
-  _"My 3-year plan: Junior Dev → Full-Stack Engineer → Tech Lead"_
+- **Confidence Boost**: Can clearly articulate my career goals:  
+  _“My 3-year plan: Junior Developer → Full-Stack Engineer → Tech Lead.”_  
 
-📎 Evidence:
+📎 **Evidence:**  
+![Career Development completion](media/career%20development%20.png)
 
-![Career Development completion](media/career development .png)
-
-🧩 Reflection: I learned to write with clarity and purpose for professional contexts — focusing on concise subject lines, bullet-pointed achievements, and a formal but approachable tone. This improved my ability to present technical work clearly to non-technical stakeholders.
+🧩 **Reflection:**  
+The course improved my clarity and professionalism in written communication. I learned to structure my CV and LinkedIn content using concise bullet points, emphasizing achievements, and maintaining a confident yet approachable tone.
 
 ---
 
 ## 💻 Skills and Interests
 
 ### ✅ Java Development  
-- GitHub Project: [Timetable Management System](https://github.com/hloni2004/Timetable-Management-System/tree/main/Backup-TimeTable)
+- **Project:** [Timetable Management System](https://github.com/hloni2004/Timetable-Management-System/tree/main/Backup-TimeTable)
 
 ### ✅ Database Implementation  
-- SQL query execution proof: [View Screenshot](https://github.com/hloni2004/github-portfolio/tree/main/media)
+- **Proof:** [SQL Execution Screenshot](https://github.com/hloni2004/github-portfolio/tree/main/media)
 
 ### ✅ Certification  
-- LinkedIn Learning: Advanced SQL
+- **LinkedIn Learning:** Advanced SQL  
+
+---
 
 ### 🔍 Reflection (STAR Technique)
 
 **Situation:**  
-As a final-year student, I needed to demonstrate hands-on development skills beyond coursework.
+As a final-year student, I needed to showcase practical development skills beyond academic projects.  
 
 **Task:**  
-- Showcase complex database operations  
-- Maintain professional project documentation
+- Demonstrate complex database operations  
+- Maintain professional project documentation  
 
 **Action:**  
-- Project Development:  
-  - Implemented GitHub best practices:  
-    - Branch protection rules  
-    - Issue templates  
+- Implemented GitHub best practices:
+  - Used branch protection rules and issue templates  
+  - Documented commits with consistent messages  
 
 **Result:**  
-- **Portfolio Quality**: Recruiters praised project organization  
-- **Technical Growth**: Now proficient in query optimization and database migrations
+- **Portfolio Quality:** Received positive recruiter feedback on project organization  
+- **Technical Growth:** Gained proficiency in query optimization and database migrations  
 
-📎 Evidence:
+📎 **Evidence:**  
+![Commit history and SQL screenshot](media/commit%20history.png)
 
-![Commit history and SQL screenshot](Imedia
-/commit history.png)
-
-
-🧩 Reflection: Peer and lecturer feedback guided improvements to documentation and commit practices. Adding issue templates and clear commit messages made collaboration easier and improved code review outcomes.
+🧩 **Reflection:**  
+Feedback from peers and lecturers encouraged me to improve documentation and version control. Using issue templates streamlined collaboration and made code reviews more efficient.
 
 ---
 
 ## 🧠 Personality Assessment
 
-**Evidence:**  
-- Completed "Personality" assessment on Blackboard
+📎 **Evidence:**  
+![Personality assessment results](media/Personality%20Check.png)
 
 ### 🔍 Reflection
 
-**Situation:** Group project required understanding work styles  
-**Task:** Identify personal teamwork approach  
-**Action:** Took assessment and compared results with peers  
-**Result:** Adapted communication style for better team synergy  
+**Situation:**  
+During a group project, it became clear that understanding team dynamics was essential.  
 
-📎 Evidence:
+**Task:**  
+Identify my personal work style and how it influences collaboration.  
 
-![Personality assessment results](media/Personality Check.png)
+**Action:**  
+Completed the Personality Assessment on Blackboard and compared results with team members.  
 
-🧩 Reflection: The assessment highlighted my preference for structured collaboration. I adjusted my communication to provide concise status updates and more context when planning with teammates.
+**Result:**  
+Improved communication by tailoring my updates and providing more context during team planning.  
+
+🧩 **Reflection:**  
+The assessment revealed my preference for structured collaboration. I learned to adapt communication styles for better team performance and mutual understanding.
 
 ---
 
 ## 📄 Create a CV
 
-**Evidence:**  
-- Submitted CV assignment on Blackboard  
-- [View CV here](https://github.com/hloni2004/github-portfolio/tree/main/documents)
+📎 **Evidence:**  
+![CV feedback screenshot](media/cv%20.png)  
+[View CV here](https://github.com/hloni2004/github-portfolio/tree/main/documents)
 
 ### 🔍 Reflection
 
-**Situation:** Needed professional CV for job applications  
-**Task:** Create ATS-compliant resume  
-**Action:** Used Blackboard resources (AI review tool, lecturer feedback)  
-**Result:** CV scored in top 100% of class submissions  
+**Situation:**  
+I needed a professional, ATS-compliant CV for internship applications.  
 
-📎 Evidence:
+**Task:**  
+Develop a modern CV aligned with job descriptions and recruiter expectations.  
 
-![CV feedback screenshot](media/cv .png)
+**Action:**  
+- Followed Blackboard tutorials and AI CV review feedback  
+- Integrated measurable achievements and keywords  
 
-🧩 Reflection: Creating an ATS-friendly CV taught me to prioritise relevant keywords and quantify achievements, which improved my business writing and presentation.
+**Result:**  
+- **Performance:** CV ranked in the top 10% of class submissions  
+
+🧩 **Reflection:**  
+Creating a digital-ready CV helped me understand how to use data-driven bullet points and relevant skills. I learned to emphasize technical contributions and outcomes.
 
 ---
 
 ## 💼 Job Application & Interview Prep
 
-**Evidence:**  
-- Applied for jobs through LinkedIn  
-- Used Career Center resources  
-- Completed Interview Prep course on Blackboard  
+📎 **Evidence:**  
+![LinkedIn connections and applications](media/connections.png)  
+![Interview prep screenshot](media/interview.png)
 
 ### 🔍 Reflection (STAR Technique)
 
-**Situation:** Graduation approaching (June 2026), needed to convert academic skills into job offers  
+**Situation:**  
+As graduation approached (June 2026), I needed to transition from academic to professional roles.  
 
 **Task:**  
 - Apply strategically to 10+ relevant positions  
-- Optimize online presence  
-- Master technical interview responses  
+- Optimize LinkedIn visibility  
+- Practice behavioral and technical interview responses  
 
 **Action:**  
-- Enhanced LinkedIn with GitHub links  
-- Practiced 15+ STAR responses  
+- Enhanced LinkedIn with project and GitHub links  
+- Completed “Interview Preparation” course on Blackboard  
+- Practiced over 15 STAR-based answers  
 
 **Result:**  
-- **Response Rate**: 30% (3/10 applications → regret emails)
+- **Response Rate:** 30% (3/10 applications led to interview follow-ups or regret emails)  
 
-📎 Evidence:
+🧩 **Reflection:**  
+Although some applications were unsuccessful, the process strengthened my ability to tailor job applications and communicate results-driven experiences. I now confidently link academic projects to industry needs during interviews.
 
-![LinkedIn connections and applications](media/connections.png)
-![Interview prep screenshot](media/interview.png)
+---
 
-🧩 Reflection: Rejections taught me to tailor applications and STAR responses. I now highlight measurable outcomes and include direct project links to demonstrate skills during interviews.
+## 🧾 Summary
+
+| Category | Achievement | Evidence |
+|-----------|--------------|-----------|
+| Career Counseling | Completed Blackboard modules | career development.png |
+| Skills Development | GitHub projects and certifications | commit history.png |
+| Personality Growth | Teamwork adaptability | Personality Check.png |
+| CV Creation | ATS-optimized CV | cv .png |
+| Interview Prep | STAR technique mastery | connections.png, interview.png |
+
+---
