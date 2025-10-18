@@ -79,7 +79,9 @@ As a final-year student, I needed to demonstrate hands-on development skills bey
 
 📎 Evidence:
 
-![Commit history and SQL screenshot](media/commit history.png)
+![Commit history and SQL screenshot](Imedia
+/commit history.png)
+
 
 🧩 Reflection: Peer and lecturer feedback guided improvements to documentation and commit practices. Adding issue templates and clear commit messages made collaboration easier and improved code review outcomes.
 
