@@ -1,7 +1,7 @@
 # 🚀 Digital Portfolio - Work Readiness Journey
 
 **Name:** *Lehlohonolo Mokoena*
-
+**Student Number:** 230236839
 ---
 
 ## 🌐 Connect With Me
@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lehlohonolo-mokoena-fullstack/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:hloniyacho@gmail.com)
 
-**Student Number:** 230236839
+
 
 ---
 
