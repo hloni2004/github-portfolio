@@ -1,178 +1,143 @@
-# 📌 Lehlohonolo Mokoena – GitHub Portfolio
+# 🚀 Digital Portfolio - Work Readiness Journey
 
-**Student Number:** 230236839  
-**Subject:** Professional Practices  
-**Date:** 23 June 2025  
+**Name:** *Lehlohonolo Mokoena*
 
 ---
 
-### 📎 Related Assessment Documents
-- [Assessment Cover Page](documents/assessment-cover.md)  
-- [Digital Portfolio Rubric](documents/portfolio-rubric.md)  
+## 🌐 Connect With Me
+
+[GitHub Profile](https://github.com/hloni2004)
+[LinkedIn](https://www.linkedin.com/in/lehlohonolo-mokoena-fullstack/)
+[Email: hloniyacho@gmail.com](mailto:hloniyacho@gmail.com)
 
 ---
 
-## 🎯 Career Counseling
+## 🎯 Table of Contents
 
-**Completed:** “Career Development” course on Blackboard  
-
-### 🔍 Reflection (STAR Technique)
-
-**Situation:**  
-As a 3rd-year ICT diploma student preparing for internships, I realized I lacked professional job-hunting skills and industry awareness.  
-
-**Task:**  
-- Understand IT industry hiring processes  
-- Develop competitive application materials  
-- Build a professional online presence  
-- Master behavioral interview techniques  
-
-**Action:**  
-- Completed Blackboard course modules:
-  - Learned SMART goal-setting and self-assessment  
-  - Differentiated between hard and soft skills  
-- Revamped LinkedIn profile:
-  - Added [projects section with GitHub links](https://github.com/hloni2004/github-portfolio)  
-  - Included endorsements for Java, SQL, and Agile  
-
-**Result:**  
-- **Confidence Boost**: Can clearly articulate my career goals:  
-  _“My 3-year plan: Junior Developer → Full-Stack Engineer → Tech Lead.”_  
-
-📎 **Evidence:**  
-![Career Development completion](media/career%20development%20.png)
-
-🧩 **Reflection:**  
-The course improved my clarity and professionalism in written communication. I learned to structure my CV and LinkedIn content using concise bullet points, emphasizing achievements, and maintaining a confident yet approachable tone.
+1. [Business Communication](#1-business-communication)
+2. [Interview Skills](#2-interview-skills)
+3. [Mock Interview](#3-mock-interview)
+4. [Professional Networking](#4-professional-networking)
+5. [Workplace Etiquette](#5-workplace-etiquette)
 
 ---
 
-## 💻 Skills and Interests
+## 🗣️ 1. BUSINESS COMMUNICATION
 
-### ✅ Java Development  
-- **Project:** [Timetable Management System](https://github.com/hloni2004/Timetable-Management-System/tree/main/Backup-TimeTable)
+### **Evidence**
 
-### ✅ Database Implementation  
-- **Proof:** [SQL Execution Screenshot](https://github.com/hloni2004/github-portfolio/tree/main/media)
-
-### ✅ Certification  
-- **LinkedIn Learning:** Advanced SQL  
+1. ![](github-portfolio/media/Business%20Commication.png)
 
 ---
 
-### 🔍 Reflection (STAR Technique)
-
-**Situation:**  
-As a final-year student, I needed to showcase practical development skills beyond academic projects.  
-
-**Task:**  
-- Demonstrate complex database operations  
-- Maintain professional project documentation  
-
-**Action:**  
-- Implemented GitHub best practices:
-  - Used branch protection rules and issue templates  
-  - Documented commits with consistent messages  
-
-**Result:**  
-- **Portfolio Quality:** Received positive recruiter feedback on project organization  
-- **Technical Growth:** Gained proficiency in query optimization and database migrations  
-
-📎 **Evidence:**  
-![Commit history and SQL screenshot](media/commit%20history.png)
-
-🧩 **Reflection:**  
-Feedback from peers and lecturers encouraged me to improve documentation and version control. Using issue templates streamlined collaboration and made code reviews more efficient.
+2. ![](github-portfolio/media/email.png)
 
 ---
 
-## 🧠 Personality Assessment
+3. ![](github-portfolio/media/presentation2.png)
 
-📎 **Evidence:**  
-![Personality assessment results](media/Personality%20Check.png)
+### **Reflection (STAR)**
 
-### 🔍 Reflection
-
-**Situation:**  
-During a group project, it became clear that understanding team dynamics was essential.  
-
-**Task:**  
-Identify my personal work style and how it influences collaboration.  
-
-**Action:**  
-Completed the Personality Assessment on Blackboard and compared results with team members.  
-
-**Result:**  
-Improved communication by tailoring my updates and providing more context during team planning.  
-
-🧩 **Reflection:**  
-The assessment revealed my preference for structured collaboration. I learned to adapt communication styles for better team performance and mutual understanding.
+**Situation:** I learned about professional communication and practiced by writing a real WIL request email.
+**Task:** Write a professional email introducing myself and requesting a placement.
+**Action:** I followed proper structure, tone, and clarity.
+**Result:** I gained confidence in formal communication and learned how to engage employers professionally.
 
 ---
 
-## 📄 Create a CV
+## 🎤 2. INTERVIEW SKILLS
 
-📎 **Evidence:**  
-![CV feedback screenshot](media/cv%20.png)  
-[View CV here](https://github.com/hloni2004/github-portfolio/tree/main/documents)
+### **Evidence**
 
-### 🔍 Reflection
-
-**Situation:**  
-I needed a professional, ATS-compliant CV for internship applications.  
-
-**Task:**  
-Develop a modern CV aligned with job descriptions and recruiter expectations.  
-
-**Action:**  
-- Followed Blackboard tutorials and AI CV review feedback  
-- Integrated measurable achievements and keywords  
-
-**Result:**  
-- **Performance:** CV ranked in the top 10% of class submissions  
-
-🧩 **Reflection:**  
-Creating a digital-ready CV helped me understand how to use data-driven bullet points and relevant skills. I learned to emphasize technical contributions and outcomes.
+1. ![](github-portfolio/media/interview.png)
 
 ---
 
-## 💼 Job Application & Interview Prep
-
-📎 **Evidence:**  
-![LinkedIn connections and applications](media/connections.png)  
-![Interview prep screenshot](media/interview.png)
-
-### 🔍 Reflection (STAR Technique)
-
-**Situation:**  
-As graduation approached (June 2026), I needed to transition from academic to professional roles.  
-
-**Task:**  
-- Apply strategically to 10+ relevant positions  
-- Optimize LinkedIn visibility  
-- Practice behavioral and technical interview responses  
-
-**Action:**  
-- Enhanced LinkedIn with project and GitHub links  
-- Completed “Interview Preparation” course on Blackboard  
-- Practiced over 15 STAR-based answers  
-
-**Result:**  
-- **Response Rate:** 30% (3/10 applications led to interview follow-ups or regret emails)  
-
-🧩 **Reflection:**  
-Although some applications were unsuccessful, the process strengthened my ability to tailor job applications and communicate results-driven experiences. I now confidently link academic projects to industry needs during interviews.
+2. ![](github-portfolio/media/cv.png)
 
 ---
 
-## 🧾 Summary
-
-| Category | Achievement | Evidence |
-|-----------|--------------|-----------|
-| Career Counseling | Completed Blackboard modules | career development.png |
-| Skills Development | GitHub projects and certifications | commit history.png |
-| Personality Growth | Teamwork adaptability | Personality Check.png |
-| CV Creation | ATS-optimized CV | cv .png |
-| Interview Prep | STAR technique mastery | connections.png, interview.png |
+3. ![](github-portfolio/media/prepareness.png)
 
 ---
+
+4. ![](github-portfolio/media/feedback.png)
+
+### **Reflection (STAR)**
+
+**Situation:** I needed to prepare for future job and WIL interviews.
+**Task:** Practice answering interview questions.
+**Action:** I rehearsed common questions, improved body language, and recorded my practice.
+**Result:** My communication improved, and I became more confident and interview-ready.
+
+---
+
+## 🎬 3. MOCK INTERVIEW
+
+### **Evidence**
+
+Video File: `github-portfolio/media/Untitled video - Made with Clipchamp (2).mp4`
+
+### **Reflection (STAR)**
+
+**Situation:** I participated in a mock interview to simulate a real WIL interview.
+**Task:** Present myself professionally using structured responses.
+**Action:** Prepared answers, dressed professionally, and ensured a clean recording environment.
+**Result:** I improved my confidence, tone, and interview structure.
+
+---
+
+## 🌐 4. PROFESSIONAL NETWORKING
+
+### **Evidence**
+
+1. ![](github-portfolio/media/proffesional_networking%20.png)
+
+---
+
+2. ![](github-portfolio/media/profile.png)
+
+---
+
+3. ![](github-portfolio/media/proffesional_networking%20.png)
+
+### **Reflection (STAR)**
+
+**Situation:** I wanted to improve my online professional presence.
+**Task:** Strengthen my LinkedIn and GitHub profiles.
+**Action:** Updated LinkedIn, organised GitHub projects, and engaged with ICT networks.
+**Result:** My visibility improved, and my profiles now represent my skills professionally.
+
+---
+
+## 🏢 5. WORKPLACE ETIQUETTE
+
+### **Evidence**
+
+![](github-portfolio/media/wrkplace.png)
+
+### **Reflection (STAR)**
+
+**Situation:** The module taught me about professional behaviour in the workplace.
+**Task:** Create a poster explaining workplace etiquette.
+**Action:** Researched etiquette values and designed a clear, informative poster.
+**Result:** I now understand the importance of respect, punctuality, communication, and teamwork.
+
+---
+
+## 🤝 Let's Connect
+
+* **Email:** [hloniyacho@gmail.com](mailto:hloniyacho@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/lehlohonolo-mokoena-fullstack/](https://www.linkedin.com/in/lehlohonolo-mokoena-fullstack/)
+* **GitHub:** [https://github.com/hloni2004](https://github.com/hloni2004)
+
+---
+
+### 📊 Portfolio Snapshot
+
+* **Last Updated:** November 2025
+* **Status:** Open to opportunities & collaborations
+
+---
+
+### 🌐 *Building my future in tech — one step at a time.*
