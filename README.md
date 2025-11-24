@@ -26,15 +26,15 @@
 
 ### **Evidence**
 
-1. ![](github-portfolio/media/Business%20Commication.png)
+1. ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/Business%20Commication.png)
 
 ---
 
-2. ![](github-portfolio/media/email.png)
+2. ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/email.png)
 
 ---
 
-3. ![](github-portfolio/media/presentation2.png)
+3. ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/presentation2.png)
 
 ### **Reflection (STAR)**
 
@@ -49,19 +49,19 @@
 
 ### **Evidence**
 
-1. ![](github-portfolio/media/interview.png)
+1. ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/interview.png)
 
 ---
 
-2. ![](github-portfolio/media/cv.png)
+2. ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/cv.png)
 
 ---
 
-3. ![](github-portfolio/media/prepareness.png)
+3. ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/prepareness.png)
 
 ---
 
-4. ![](github-portfolio/media/feedback.png)
+4. ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/feedback.png)
 
 ### **Reflection (STAR)**
 
@@ -76,7 +76,7 @@
 
 ### **Evidence**
 
-Video File: `github-portfolio/media/Untitled video - Made with Clipchamp (2).mp4`
+Video File: `https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/Untitled video - Made with Clipchamp (2).mp4`
 
 ### **Reflection (STAR)**
 
@@ -91,15 +91,15 @@ Video File: `github-portfolio/media/Untitled video - Made with Clipchamp (2).mp4
 
 ### **Evidence**
 
-1. ![](github-portfolio/media/proffesional_networking%20.png)
+1. ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/proffesional_networking%20.png)
 
 ---
 
-2. ![](github-portfolio/media/profile.png)
+2. ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/profile.png)
 
 ---
 
-3. ![](github-portfolio/media/proffesional_networking%20.png)
+3. ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/proffesional_networking%20.png)
 
 ### **Reflection (STAR)**
 
@@ -114,7 +114,7 @@ Video File: `github-portfolio/media/Untitled video - Made with Clipchamp (2).mp4
 
 ### **Evidence**
 
-![](github-portfolio/media/wrkplace.png)
+![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/wrkplace.png)
 
 ### **Reflection (STAR)**
 
