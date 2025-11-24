@@ -34,7 +34,7 @@ This digital portfolio showcases my development in communication, interview read
 
 ### **Evidence**
 
-**Professional Email Writing**
+
 ![](https://raw.githubusercontent.com/hloni2004/github-portfolio/main/media/Business%20Commication.png)
 
 ---
