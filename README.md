@@ -164,7 +164,7 @@ This digital portfolio showcases my development in communication, interview read
 
 ### 📊 Portfolio Snapshot
 
-* **Last Updated:** November 2025
+
 * **Status:** Open to opportunities & collaborations
 
 ---
