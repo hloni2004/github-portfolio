@@ -6,9 +6,11 @@
 
 ## 🌐 Connect With Me
 
-[GitHub Profile](https://github.com/hloni2004)
-[LinkedIn](https://www.linkedin.com/in/lehlohonolo-mokoena-fullstack/)
-[Email: hloniyacho@gmail.com](mailto:hloniyacho@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/hloni2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/lehlohonolo-mokoena-fullstack/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:hloniyacho@gmail.com)
+
+**Student Number:** 230236839
 
 ---
 
